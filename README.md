@@ -8,7 +8,11 @@ npm i -g npm-upgrade
 
 Install create-react-app (npm install -g create-react-app)
 
+create-react-app dashboard
 
+cd dashboard 
+
+npm start
 
 
 
